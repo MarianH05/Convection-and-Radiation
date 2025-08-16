@@ -16,7 +16,7 @@ The simulation shows:
 
 ## File Structure
 
-'''
+```
 ├── README.md
 ├── report
 │ ├── Report.pdf # Detailed report of the project
@@ -30,7 +30,7 @@ The simulation shows:
 ├── odeFunction.m # ODE for rod cooling
 ├── Terminal.m # Event function for ODE termination
 └── updatePlot.m # Plotting and animation function
-'''
+```
 
 
 ## Usage
